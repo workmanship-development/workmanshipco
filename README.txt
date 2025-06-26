@@ -1,3 +1,81 @@
+
+Other notes:
+
+ Blue coloration for websites:
+ #000137
+ - #02055A
+ #02198B
+ #253DA1
+ #B0DBF1
+ #eaeaea
+
+---------
+
+
+When designing a website with a white background, several shades of blue can create a visually appealing contrast. Here are some options that work well:
+
+    Navy Blue: A deep, rich navy provides a strong contrast against white, making text and elements stand out.
+
+    Sky Blue: A lighter, softer blue that gives a fresh and airy feel, ideal for a clean and modern look.
+
+    Teal: This blue-green shade adds a touch of sophistication and works well for a more vibrant design.
+
+    Royal Blue: A bold and bright blue that captures attention without being overwhelming.
+
+    Powder Blue: A very light blue that can create a calming effect, suitable for a minimalist design.
+
+    Cobalt Blue: A vivid and striking blue that can add energy and dynamism to the design.
+
+
+----------
+
+When selecting large fonts for website text, it's important to consider readability, aesthetics, and the overall design of your site. Here are some of the best large fonts that work well for web use:
+1. Montserrat
+
+    A modern sans-serif font with a geometric style, Montserrat is highly legible and works well for headings and body text.
+
+2. Roboto
+
+    This versatile sans-serif font has a friendly and approachable feel. It’s great for both headings and body text, especially in larger sizes.
+
+3. Open Sans
+
+    Known for its clean and open appearance, Open Sans is highly readable and works well in various contexts, making it a popular choice for web design.
+
+4. Lora
+
+    A serif font that combines modern and classic elements, Lora is excellent for large text, especially in blogs or articles.
+
+5. Playfair Display
+
+    This elegant serif font is perfect for headlines and adds a touch of sophistication to your design.
+
+6. Poppins
+
+    A geometric sans-serif font that is bold and modern, Poppins is great for making a statement in larger text.
+
+7. Raleway
+
+    A stylish sans-serif font that is perfect for headings, Raleway has a clean and elegant look.
+
+8. Bebas Neue
+
+    A bold, condensed sans-serif font, Bebas Neue is ideal for impactful headlines and calls to action.
+
+9. Merriweather
+
+    A serif font designed for readability on screens, Merriweather works well for both headings and body text.
+
+10. Source Sans Pro
+
+    A clean and modern sans-serif font, Source Sans Pro is versatile and works well in various sizes.
+
+
+
+
+
+License notes:
+
 Eventually by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
