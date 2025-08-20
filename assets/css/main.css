@@ -55,10 +55,10 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
-mark {
+/* mark {
 	background-color: transparent;
 	color: inherit;
-}
+} */
 
 input::-moz-focus-inner {
 	border: 0;
@@ -533,13 +533,13 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff !important;
 			border-color: #ffffff !important;
-			color: #1b1f22;
+			color: #878b8d;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			background: rgba(255, 255, 255, 0.075);
+			background: rgba(247, 245, 245, 0.365);
 			border-color: #ffffff;
 			box-shadow: 0 0 0 1px #ffffff;
 		}
